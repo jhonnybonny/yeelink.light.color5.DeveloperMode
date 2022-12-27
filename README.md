@@ -37,3 +37,5 @@ Developer mode enabled.
 Make sure that your device is turned on and connected to the same network as the computer running the script.
 The TOKEN value can be obtained using the Xiaomi cloud tokens extractor script.
 Enabling developer mode on a Yeelight device allows you to access advanced features and make changes to the device's firmware. Use caution when using these features, as they may cause the device to behave unexpectedly or become unstable.
+
+For more information on using developer mode with Yeelight devices, see the following thread on - [4PDA](https://4pda.to/forum/index.php?showtopic=830699&view=findpost&p=105254362)

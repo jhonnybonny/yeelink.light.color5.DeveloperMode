@@ -15,12 +15,13 @@ To use this script, you will need to install the following dependency:
 
 To use the script, run the following command:
 
+⚠️ BEFORE COPY blub.py TO Xiaomi-cloud-tokens-extractor ROOT FOLDER ⚠️
+
 ```bash
 python3 blub.py
 ```
 The script will prompt you for the IP and TOKEN values for your Yeelight device. Once you have entered these values, the script will enable developer mode for the device.
 
-⚠️ JUST COPY blub.py TO Xiaomi-cloud-tokens-extractor ROOT FOLDER ⚠️
 
 Example
 ```bash

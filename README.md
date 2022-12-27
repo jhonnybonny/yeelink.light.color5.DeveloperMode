@@ -15,7 +15,7 @@ To use this script, you will need to install the following dependency:
 
 To use the script, run the following command:
 
-⚠️ BEFORE COPY blub.py TO Xiaomi-cloud-tokens-extractor ROOT FOLDER ⚠️
+⚠️ BEFORE RUN SCRIPT COPY blub.py TO Xiaomi-cloud-tokens-extractor ROOT FOLDER ⚠️
 
 ```bash
 python3 blub.py
